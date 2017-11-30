@@ -1,0 +1,17 @@
+{
+    "name": "final-flashcard",
+    "version": "1.0.0",
+    "description": "Cloze and Basic Flashcard Assignment",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "cloze"
+    ],
+    "author": "michael ross curnes",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^4.0.0"
+    }
+}
